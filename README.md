@@ -2,7 +2,7 @@
 - 👀 Eu tenho interesse em estudar todas as novas tecnologias assim como as antigas.
 - 🌱 Atualmente estou estudando Java, Spring, MySQL e Mongo para uso prático e desenvolvimento de sistemas.
 - 💞️ Procuro colaborar ao máximo em todos os projetos que precisarem de ajuda.
-- 📫 Caso queiram entrar em contato, (11) 9-7998-7886.
+  
 
 <!---
 0Cygnus/0Cygnus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
